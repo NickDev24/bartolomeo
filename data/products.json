@@ -1,0 +1,121 @@
+{
+  "categorias": [
+    {
+      "id": "cafeteria",
+      "nombre": "Cafetería",
+      "icono": "coffee",
+      "productos": [
+        { "nombre": "Café", "precio": 3000 },
+        { "nombre": "Café con leche", "precio": 3500 },
+        { "nombre": "Té", "precio": 3000 },
+        { "nombre": "Submarino", "precio": 4500 },
+        { "nombre": "Capuccino", "precio": 3500 },
+        { "nombre": "Caramel macchiato", "precio": 5300 }
+      ]
+    },
+    {
+      "id": "jugos",
+      "nombre": "Jugos & Batidos",
+      "icono": "juice",
+      "productos": [
+        { "nombre": "Jugo de naranja (vaso)", "precio": 5000 },
+        { "nombre": "Jugo de naranja (litro)", "precio": 6500 },
+        { "nombre": "Limonada clásica", "precio": 4500 },
+        { "nombre": "Licuados", "precio": 6500 },
+        { "nombre": "Smoothies", "precio": 7200 }
+      ]
+    },
+    {
+      "id": "cafesfrios",
+      "nombre": "Cafés Fríos",
+      "icono": "iced",
+      "productos": [
+        { "nombre": "Iced coffee", "precio": 5500 },
+        { "nombre": "Iced latte", "precio": 5500 },
+        { "nombre": "Frappé dulce de leche", "precio": 7500 },
+        { "nombre": "Frappé oreo", "precio": 7500 }
+      ]
+    },
+    {
+      "id": "desayunos",
+      "nombre": "Desayunos & Meriendas",
+      "icono": "breakfast",
+      "productos": [
+        { "nombre": "Clásico", "precio": 7000 },
+        { "nombre": "Americano", "precio": 10500 },
+        { "nombre": "Completo", "precio": 10500 },
+        { "nombre": "Para compartir", "precio": 24000 }
+      ]
+    },
+    {
+      "id": "algo-rico",
+      "nombre": "Algo Rico",
+      "icono": "snack",
+      "productos": [
+        { "nombre": "Medialuna", "precio": 4000 },
+        { "nombre": "Tostado de jamón", "precio": 10000 },
+        { "nombre": "Sandwich de crudo", "precio": 12000 },
+        { "nombre": "Granola con frutas", "precio": 10000 },
+        { "nombre": "Pancakes", "precio": 10000 },
+        { "nombre": "Huevos revueltos", "precio": 8000 },
+        { "nombre": "Croissant", "precio": 3500 },
+        { "nombre": "Muffin", "precio": 4000 }
+      ]
+    },
+    {
+      "id": "entradas",
+      "nombre": "Entradas",
+      "icono": "starter",
+      "productos": [
+        { "nombre": "Rabas", "precio": 15000 },
+        { "nombre": "Bastones de pollo", "precio": 13000 },
+        { "nombre": "Picada Bartolomeo", "precio": 26000 },
+        { "nombre": "Papas fritas", "precio": 8500 }
+      ]
+    },
+    {
+      "id": "sandwiches",
+      "nombre": "Sandwiches",
+      "icono": "sandwich",
+      "productos": [
+        { "nombre": "Veggie", "precio": 11500 },
+        { "nombre": "El Serrano", "precio": 10500 },
+        { "nombre": "El de Siempre", "precio": 10500 },
+        { "nombre": "Livianito", "precio": 9000 }
+      ]
+    },
+    {
+      "id": "pizzas",
+      "nombre": "Pizzas",
+      "icono": "pizza",
+      "productos": [
+        { "nombre": "Muzzarella (4 porciones)", "precio": 8600 },
+        { "nombre": "Especial", "precio": 9800 },
+        { "nombre": "Napolitana", "precio": 9800 },
+        { "nombre": "Mediterranea", "precio": 12000 }
+      ]
+    },
+    {
+      "id": "principales",
+      "nombre": "Principales",
+      "icono": "main",
+      "productos": [
+        { "nombre": "Bondiola", "precio": 18000 },
+        { "nombre": "Medallón de filete", "precio": 21000 },
+        { "nombre": "Pechuga de pollo", "precio": 17000 },
+        { "nombre": "Milanesa napolitana", "precio": 17500 }
+      ]
+    },
+    {
+      "id": "casa",
+      "nombre": "De la Casa",
+      "icono": "house",
+      "productos": [
+        { "nombre": "Filetitos de lomo", "precio": 21000 },
+        { "nombre": "Lomo al champignon", "precio": 22000 },
+        { "nombre": "Chop suey", "precio": 17000 },
+        { "nombre": "Costillas de cerdo", "precio": 21000 }
+      ]
+    }
+  ]
+}
